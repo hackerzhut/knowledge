@@ -1,0 +1,2 @@
+- [IMAGE AND VIDEO RECOGNITION API](https://www.clarifai.com/)
+- [Graph theory / network library for analysis and visualisation](http://js.cytoscape.org/)
